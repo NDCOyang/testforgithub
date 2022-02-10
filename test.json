@@ -1,0 +1,27 @@
+{
+    "result":[{
+        "name":"株式会社",
+        "info":[
+            {
+                "category1":{
+                    "name":"株式会社",
+                    "add":"東京都"
+                },
+                "category2":{},
+                "category3":{
+                    "female_num":"100",
+                    "people_is":"有",
+                    "status":"参画中"
+                },
+                "category4":{
+                    "amt":"135135",
+                    "profit":"hidden"
+                },
+                "category5":{
+                    "plan":"有",
+                    "employees_status":"共有している"
+                }
+            }
+        ]
+    }]
+}
